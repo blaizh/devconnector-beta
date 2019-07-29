@@ -1,0 +1,16 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "social network for developers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "author": "Yexi Yuan",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^4.1.1",
+    "nodemon": "^1.19.1"
+  }
+}
