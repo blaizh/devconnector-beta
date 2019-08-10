@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://yexiyuan:yuanyexi9@cluster0-kbrbf.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "096d4906237bdb3ca2fb",
+    "githubSecret": "9cc902164433c4f75c8f6599d2bd76fd7e9b7218"
 }
